@@ -21,6 +21,9 @@ Connecting Bharat is a privacy-first, account-free communication platform that l
 - File sharing
 - Voice messages
 - Multi-language support
-- Progressive Web App (PWA)
-##Single file code
+-Progressive Web App (PWA)
+
+## Single file code
+
+
 
